@@ -1,3 +1,7 @@
+'''
+    Forked from: https://github.com/peliot/XIRR-and-XNPV
+'''
+
 import datetime
 from scipy import optimize 
 
